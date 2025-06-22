@@ -63,8 +63,11 @@ http://localhost:3000
 LICENSE
 This project is open-source and available under the MIT License
 
-Author
-•tarunteja
-
 Contributing
 Feel free to fork this repository and suggest improvements via pull requests. All contributions are welcome!
+
+Screenshot
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
